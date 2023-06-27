@@ -1,4 +1,4 @@
-module github.com/Tonight00/godemo
+module demo
 
 go 1.20
 
